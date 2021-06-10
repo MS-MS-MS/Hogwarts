@@ -1,0 +1,22 @@
+calc:
+  add:
+    data:
+      - [1, 1, 2]
+      - [100, 1, 101]
+      - [0.1, 0.1, 0.2]
+      - [-1, -1, -2]
+      - [1, 0, 1]
+      - [0, 1, 1]
+      - [-1, 1, 0]
+      - [-100, -400, -500]
+      - [-500, 1000, 500]
+    ids:
+      - 'int_case'
+      - 'bignum_case'
+      - 'float_case'
+      - 'minus_case'
+      - 'zero_case'
+      - 'zero_int_case'
+      - 'minus_int_case'
+      - 'minus_bignum_case'
+      - 'minus_bignum_int_case'

@@ -1,0 +1,16 @@
+"""
+pytest 文件的命名规则
+要在opne in Terminal 中运行的时候必须要在文件这创建__init__.py文件 要不无法识别
+"""
+文件名以 test_*.py 文件和*_test.py
+以  test_ 开头的函数
+以  Test 开头的类，不能包含 __init__ 方法
+以  test_ 开头的类里面的方法
+所有的包 pakege 必须要有__init__.py 文件
+
+"""
+ymal 格式
+"""
+
+注意空格
+- 1
